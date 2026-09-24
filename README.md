@@ -1,52 +1,92 @@
-# Sales-Insights---Dashboard-
+# Sales Insights Dashboard
 
-A Power BI dashboard project that delivers interactive analytics and visualizations of sales performance across regions, shipping methods, product categories, and customer data. This repository includes the Power BI report, datasets, and visuals to help explore business trends and drive data-backed decisions.
+A Power BI dashboard project created to analyze and visualize sales performance using interactive charts and reports. The dashboard provides insights into customers, sales regions, shipping modes, order priorities, product categories, profit, and discounts.
 
-![image](https://github.com/shohratSingh/Sales-Insights---Dashboard-/blob/3adf3b1cfc2f06f74ee1c663422d2ab467c65c1c/Screenshot.png)
+## Dashboard Preview
+
+![Sales Insights Dashboard]([images/Sales-Dashboard.png](https://github.com/shohratSingh/Sales-Insights---Dashboard-/blob/3adf3b1cfc2f06f74ee1c663422d2ab467c65c1c/Screenshot.png))
+
+## Project Overview
+
+This project focuses on transforming sales data into meaningful business insights using Microsoft Power BI.
+
+The dashboard helps analyze:
+
+- Customer count and customer distribution
+- Sales performance across different regions
+- Sales by region and category
+- Revenue generated through different shipping modes
+- Order priority across different cities
+- Profit and discount relationships by product category
+- Overall sales performance
+
+## Key Features
+
+- Interactive Power BI dashboard
+- Dynamic charts and visualizations
+- Customer and sales analysis
+- Regional sales comparison
+- Shipping mode revenue analysis
+- Order priority analysis
+- Product category performance analysis
+- Profit and discount comparison
+- Interactive filters and slicers
+- Easy-to-understand business insights
+
+## Dashboard Visualizations
+
+### Customer Analysis
+Displays the total number of customers and provides an overview of the customer base.
+
+### Sales by Region
+Shows sales performance across different regions.
+
+### Sales by Shipping Mode
+Analyzes revenue generated through different shipping methods.
+
+### Order Priority Analysis
+Shows order priority across different cities and regions.
+
+### Profit vs Discount by Category
+Compares profit and discount levels across different product categories.
+
+### Interactive Filters
+Allows users to filter and explore different aspects of the sales data.
+
+## Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Cleaning & Transformation
+
+## How to Use
+
+1. Download or clone this repository.
+2. Open the `.pbix` file using Power BI Desktop.
+3. If required, update the dataset path.
+4. Refresh the data.
+5. Use the filters and visualizations to explore the dashboard.
+
+## Insights
+
+This dashboard helps understand:
+
+- Regional sales performance
+- Customer distribution
+- Revenue by shipping mode
+- Order priority across locations
+- Profit and discount relationships
+- Product category performance
 
 
-## Features
+## Author
 
-- Interactive Power BI dashboard for visualizing Netflix data
-- Key metrics such as most-watched movies/series, user demographics, and viewing trends
-- Filters and slicers for dynamic data exploration
-- Data-driven insights for content popularity and engagement
-- Custom visuals and drill-down capabilities
+**Shohrat Singh**
 
-## Project Structure
+GitHub: https://github.com/shohratSingh
 
-- `NetflixDashboard.pbix` – Main Power BI dashboard/report file
-- `data/` – Folder containing sample datasets (CSV, Excel, etc.)
-- `images/` – Screenshots or visual previews of the dashboard
-- `docs/` – Additional documentation or supporting materials
+## License
 
-## Getting Started
-
-### Prerequisites
-
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows)
-- Sample data files (provided in the `data/` folder or as instructed)
-
-### How to Use
-
-1. **Clone the repository:**
-    ```bash
-    https://github.com/shohratSingh/Sales-Insights---Dashboard-.git
-    ```
-2. **Open the Dashboard:**
-    - Launch Power BI Desktop.
-    - Open the `Sales Insights.pbix` file.
-3. **Connect/Update Data Source:**
-    - If using your own data, update the data source paths in Power BI to point to your dataset.
-    - Refresh the data to load the latest values.
-4. **Explore the Dashboard:**
-    - Use interactive visuals, filters, and slicers to analyze different aspects of Netflix data.
-    - Hover over visuals for tooltips and deeper insights.
-
-## Customization
-
-- Modify visuals, add new data fields, or change filters to tailor the dashboard to your needs.
-- Create new pages for additional analyses.
-- Replace sample data with your organization’s Netflix usage data for personalized analytics.
-
-
+This project is created for learning and portfolio purposes.
