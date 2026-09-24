@@ -4,7 +4,7 @@ A Power BI dashboard project created to analyze and visualize sales performance 
 
 ## Dashboard Preview
 
-![Sales Insights Dashboard]((https://github.com/shohratSingh/Sales-Insights---Dashboard-/blob/3adf3b1cfc2f06f74ee1c663422d2ab467c65c1c/Screenshot.png))
+![Sales Insights Dashboard](https://github.com/shohratSingh/Sales-Insights---Dashboard-/blob/85c0dec5ca8a8b8841a1e3f67bd720406f9b20d6/Screenshot.png)
 
 ## Project Overview
 
