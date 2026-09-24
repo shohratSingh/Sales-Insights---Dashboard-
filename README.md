@@ -33,26 +33,6 @@ The dashboard helps analyze:
 - Interactive filters and slicers
 - Easy-to-understand business insights
 
-## Dashboard Visualizations
-
-### Customer Analysis
-Displays the total number of customers and provides an overview of the customer base.
-
-### Sales by Region
-Shows sales performance across different regions.
-
-### Sales by Shipping Mode
-Analyzes revenue generated through different shipping methods.
-
-### Order Priority Analysis
-Shows order priority across different cities and regions.
-
-### Profit vs Discount by Category
-Compares profit and discount levels across different product categories.
-
-### Interactive Filters
-Allows users to filter and explore different aspects of the sales data.
-
 ## Tools & Technologies
 
 - Microsoft Power BI
